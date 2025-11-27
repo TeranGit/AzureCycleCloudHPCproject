@@ -27,7 +27,6 @@ La estructura final se verá así, pero por ahora estará sin contenido:
  /04-Control-Costos/
  /05-Limpieza-Recursos/
 
- ![Uploading image.png…]()
 
 
 
@@ -36,3 +35,7 @@ Unidad	Estado	Notas
 Introducción	⬜ Pendiente	—
 
 (Esta tabla se actualizará conforme avances.)
+
+<img width="922" height="640" alt="image" src="https://github.com/user-attachments/assets/3d2ac219-044d-41fc-af2c-34df3d67595d" />
+
+
