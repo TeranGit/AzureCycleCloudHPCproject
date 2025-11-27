@@ -27,6 +27,9 @@ La estructura final se verá así, pero por ahora estará sin contenido:
  /04-Control-Costos/
  /05-Limpieza-Recursos/
 
+ ![Uploading image.png…]()
+
+
 
 🔄 Avance del curso
 Unidad	Estado	Notas
